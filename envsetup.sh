@@ -4,7 +4,7 @@ GPLMLIBS="ana cap con cpd dio ics ind mpu mcu pwr rfm res reg xtr osc opt art sw
 DBFILE=./database/parts.sqlite
 
 parts_db_create() {
-	for lib in ${GPLMLIBS}; do
+	for lib in $=GPLMLIBS; do
 		sqlite3 ${DBFILE} "DROP TABLE IF EXISTS ${lib}" || return 1
 		sqlite3 --csv ${DBFILE} ".import ./database/g-${lib}.csv ${lib}" || return 1
 	done
