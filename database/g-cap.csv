@@ -1,13 +1,13 @@
 IPN,MPN,Manufacturer,Description,Symbol,Footprint,Capacitance,Voltage,Material,Tolerance,Datasheet
-CAP-0000-0102,CC0603KRX7R9BB102,Yageo,0.001uF 50V 0603 X7R,Device:C,#g-cap:C0603_DS,0.001uF,50V,X7R,10%,https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf
-CAP-0001-0000,Generic,Generic,0.1uF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,0.01uF,25V,X7R,10%,N/A
-CAP-0002-0000,Generic,Generic,22uF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,22uF,25V,X7R,20%,
-CAP-0003-0000,Generic,Generic,4.7uF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,4.7uF,25V,X7R,20%,
-CAP-0004-0000,Generic,Generic,33nF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,33nF,25V,X7R,20%,
-CAP-0005-0000,Generic,Generic,220pF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,220pF,25V,X7R,20%,
-CAP-0006-0000,Generic,Generic,22uF 10V 0603 X7R,Device:C,#g-cap:C0603_DS,22uF,10V,X7R,20%,
-CAP-0007-0000,Generic,Generic,0.1uF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,0.1uF,25V,X7R,20%,
-CAP-0008-0000,Generic,Generic,22pF 10V 0603 X7R,Device:C,#g-cap:C0603_DS,22pF,10V,X7R,20%,
-CAP-0009-0000,Generic,Generic,1uF 25V 0603 X7R,Device:C,#g-cap:C0603_DS,1uF,25V,X7R,20%,
-,,,,,,,,,,
+CAP-0000-0102,CC0603KRX7R9BB102,Yageo,0.001uF 50V 0603 X7R,Device:C,g-cap:C0603_DS,0F001u,50V,X7R,10%,https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf
+CAP-0001-0000,Generic,Generic,0.1uF 25V 0603 X7R,Device:C,g-cap:C0603_DS,0F01u,25V,X7R,10%,N/A
+CAP-0002-0000,Generic,Generic,22uF 25V 0603 X7R,Device:C,g-cap:C0603_DS,22u,25V,X7R,20%,
+CAP-0003-0000,Generic,Generic,4.7uF 25V 0603 X7R,Device:C,g-cap:C0603_DS,4F7u,25V,X7R,20%,
+CAP-0004-0000,Generic,Generic,33nF 25V 0603 X7R,Device:C,g-cap:C0603_DS,33n,25V,X7R,20%,
+CAP-0005-0000,Generic,Generic,220pF 25V 0603 X7R,Device:C,g-cap:C0603_DS,220p,25V,X7R,20%,
+CAP-0006-0000,Generic,Generic,22uF 10V 0603 X7R,Device:C,g-cap:C0603_DS,22u,10V,X7R,20%,
+CAP-0007-0000,Generic,Generic,0.1uF 25V 0603 X7R,Device:C,g-cap:C0603_DS,0F1,25V,X7R,20%,
+CAP-0008-0000,Generic,Generic,22pF 10V 0603 X7R,Device:C,g-cap:C0603_DS,22p,10V,X7R,20%,
+CAP-0009-0000,Generic,Generic,1uF 25V 0603 X7R,Device:C,g-cap:C0603_DS,1u,25V,X7R,20%,
+CAP-0010-0000,Generic,Generic,470pF 25V 0603 X7R,Device:C,g-cap:C0603_DS,470p,25V,X7R,20%,
 ,,,,,,,,,,

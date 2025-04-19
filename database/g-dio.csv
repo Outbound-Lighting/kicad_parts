@@ -1,2 +1,4 @@
 IPN,MPN,Manufacturer,Description,Symbol,Footprint,Current,Voltage,Datasheet
 DIO-0000-0001,RB168MM-40TFTR,ROHM Semiconductor,Schottky 40V 1A,Device:D_Schottky,g-dio:SOD123FL_210,1A,40V,https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb168mm-40tftr-e.pdf
+DIO-0001-0000,XD16AWT-H0-0000000000KE2,CREE,"156lm Flux bin, E2 color point",Device:LED,g-dio:XQ-D,,,https://www.mouser.com/datasheet/2/723/XLamp_XD16-3402074.pdf
+DIO-0002-0000,WS2812B-2020,Worldsemi,WS2812 RGB Addressable,g-dio:WS2812B-2020,g-dio:WS2812B-2020,,,https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf

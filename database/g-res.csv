@@ -1,2 +1,16 @@
 IPN,MPN,Manufacturer,Description,Symbol,Footprint,Resistance,Voltage,Power,Tolerance,Datasheet
-RES-0000-1001,WSL0603R0200FEA,Vishay Dale,20 0603_DS,Device:R_US,g-res:R0603_DS;R,20,75V,100mW,1%,https://www.vishay.com/docs/30100/wsl.pdf
+RES-0000-1001,WSL0603R0200FEA,Vishay Dale,20 0603_DS,Device:R_US,g-res:R0603_DS,20R,75V,100mW,1%,https://www.vishay.com/docs/30100/wsl.pdf
+RES-0001-0000,Generic,Generic,47k NTC Thermistor,Device:Thermistor_US,g-res:R0603_DS,47k,,,1%,
+RES-0002-0000,Generic,Generic,15k,Device:R_US,g-res:R0603_DS,15k,,,,
+RES-0003-0000,Generic,Generic,1.24M Ohm,Device:R_US,g-res:R0603_DS,1M24,,,,
+RES-0004-0000,Generic,Generic,220k Ohm,Device:R_US,g-res:R0603_DS,220k,,,,
+RES-0005-0000,Generic,Generic,100k Ohm,Device:R_US,g-res:R0603_DS,100k,,,,
+RES-0006-0000,Generic,Generic,0.01 Ohm,Device:R_US,g-res:M1206,0R01,,,,
+RES-0007-0000,Generic,Generic,470 Ohm,Device:R_US,g-res:R0603_DS,470R,,,,
+RES-0008-0000,Generic,Generic,4.7k Ohm,Device:R_US,g-res:R0603_DS,4R7k,,,,
+RES-0009-0000,Generic,Generic,56k Ohm,Device:R_US,g-res:R0603_DS,56k,,,,
+RES-0010-0000,Generic,Generic,10k Ohm,Device:R_US,g-res:R0603_DS,10k,,,,
+RES-0011-0000,Generic,Generic,36.5k Ohm,Device:R_US,g-res:R0603_DS,36R5k,,,,
+RES-0012-0000,Generic,Generic,7.5k Ohm,Device:R_US,g-res:R0603_DS,7R5k,,,,
+RES-0013-0000,Generic,Generic,10 Ohm,Device:R_US,g-res:R0603_DS,10R,,,,
+RES-0014-0000,Generic,Generic,1k Ohm,Device:R_US,g-res:R0603_DS,1k,,,,
